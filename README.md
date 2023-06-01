@@ -1,10 +1,12 @@
-## NOTE AFTER FORK
+### NOTE AFTER FORK
 - fix localstorage issue
 	- https://stackoverflow.com/questions/5899087/android-webview-localstorage
 - fix HTML 5 video issue
 	- https://github.com/cprcrack/VideoEnabledWebView
 - how to debug
 	- https://developer.chrome.com/docs/devtools/remote-debugging/webviews/
+
+---
 
 This is a template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
